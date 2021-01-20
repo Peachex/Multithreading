@@ -1,0 +1,4 @@
+Passenger; truck; passenger; truck; truck; truck 
+Truck; passenger; passenger; truck; truck; passenger
+Passenger; passenger; passenger; truck; truck
+Passenger; truck; truck

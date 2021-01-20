@@ -1,0 +1,19 @@
+20-01-2021 15:33:01 startFerrying DEBUG entity.RiverFerry, message: Current weight = 15 (<=15)
+20-01-2021 15:33:01 startFerrying DEBUG entity.RiverFerry, message: Current area = 12 (<=12)
+20-01-2021 15:33:01 startFerrying DEBUG entity.RiverFerry, message: id = 7 (TRUCK) - complete ferrying
+20-01-2021 15:33:01 startFerrying DEBUG entity.RiverFerry, message: id = 6 (TRUCK) - complete ferrying
+20-01-2021 15:33:01 startFerrying DEBUG entity.RiverFerry, message: id = 5 (TRUCK) - complete ferrying
+20-01-2021 15:33:04 addToFerry DEBUG entity.RiverFerry, message: id = 4 (TRUCK) - added to the ferry
+20-01-2021 15:33:04 addToFerry DEBUG entity.RiverFerry, message: id = 16 (TRUCK) - added to the ferry
+20-01-2021 15:33:04 addToFerry DEBUG entity.RiverFerry, message: id = 17 (TRUCK) - added to the ferry
+20-01-2021 15:33:07 startFerrying DEBUG entity.RiverFerry, message: Current weight = 15 (<=15)
+20-01-2021 15:33:07 startFerrying DEBUG entity.RiverFerry, message: Current area = 12 (<=12)
+20-01-2021 15:33:07 startFerrying DEBUG entity.RiverFerry, message: id = 4 (TRUCK) - complete ferrying
+20-01-2021 15:33:07 startFerrying DEBUG entity.RiverFerry, message: id = 16 (TRUCK) - complete ferrying
+20-01-2021 15:33:07 startFerrying DEBUG entity.RiverFerry, message: id = 17 (TRUCK) - complete ferrying
+20-01-2021 15:33:10 addToFerry DEBUG entity.RiverFerry, message: id = 19 (TRUCK) - added to the ferry
+20-01-2021 15:33:10 addToFerry DEBUG entity.RiverFerry, message: id = 20 (TRUCK) - added to the ferry
+20-01-2021 15:33:13 startFerrying DEBUG entity.RiverFerry, message: Current weight = 10 (<=15)
+20-01-2021 15:33:13 startFerrying DEBUG entity.RiverFerry, message: Current area = 8 (<=12)
+20-01-2021 15:33:13 startFerrying DEBUG entity.RiverFerry, message: id = 19 (TRUCK) - complete ferrying
+20-01-2021 15:33:13 startFerrying DEBUG entity.RiverFerry, message: id = 20 (TRUCK) - complete ferrying
