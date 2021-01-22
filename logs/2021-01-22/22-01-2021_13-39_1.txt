@@ -1,0 +1,23 @@
+22-01-2021 13:39:50 addToFerry DEBUG RiverFerry, message: id = 1 (PASSENGER) - added to the ferry
+22-01-2021 13:39:50 addToFerry DEBUG RiverFerry, message: id = 2 (TRUCK) - added to the ferry
+22-01-2021 13:39:50 addToFerry DEBUG RiverFerry, message: id = 3 (PASSENGER) - added to the ferry
+22-01-2021 13:39:50 addToFerry DEBUG RiverFerry, message: id = 8 (PASSENGER) - added to the ferry
+22-01-2021 13:39:52 startFerrying DEBUG RiverFerry, message: Current weight = 14 (<=15)
+22-01-2021 13:39:52 startFerrying DEBUG RiverFerry, message: Current area = 10 (<=12)
+22-01-2021 13:39:52 startFerrying DEBUG RiverFerry, message: id = 1 (PASSENGER) - complete ferrying
+22-01-2021 13:39:52 startFerrying DEBUG RiverFerry, message: id = 2 (TRUCK) - complete ferrying
+22-01-2021 13:39:52 startFerrying DEBUG RiverFerry, message: id = 3 (PASSENGER) - complete ferrying
+22-01-2021 13:39:52 startFerrying DEBUG RiverFerry, message: id = 8 (PASSENGER) - complete ferrying
+22-01-2021 13:39:54 addToFerry DEBUG RiverFerry, message: id = 9 (PASSENGER) - added to the ferry
+22-01-2021 13:39:54 addToFerry DEBUG RiverFerry, message: id = 11 (TRUCK) - added to the ferry
+22-01-2021 13:39:54 addToFerry DEBUG RiverFerry, message: id = 10 (TRUCK) - added to the ferry
+22-01-2021 13:39:56 startFerrying DEBUG RiverFerry, message: Current weight = 13 (<=15)
+22-01-2021 13:39:56 startFerrying DEBUG RiverFerry, message: Current area = 10 (<=12)
+22-01-2021 13:39:56 startFerrying DEBUG RiverFerry, message: id = 9 (PASSENGER) - complete ferrying
+22-01-2021 13:39:56 startFerrying DEBUG RiverFerry, message: id = 11 (TRUCK) - complete ferrying
+22-01-2021 13:39:56 startFerrying DEBUG RiverFerry, message: id = 10 (TRUCK) - complete ferrying
+22-01-2021 13:39:58 addToFerry DEBUG RiverFerry, message: id = 12 (PASSENGER) - added to the ferry
+22-01-2021 13:39:58 addToFerry DEBUG RiverFerry, message: id = 13 (PASSENGER) - added to the ferry
+22-01-2021 13:39:58 addToFerry DEBUG RiverFerry, message: id = 14 (PASSENGER) - added to the ferry
+22-01-2021 13:39:58 addToFerry DEBUG RiverFerry, message: id = 15 (PASSENGER) - added to the ferry
+22-01-2021 13:39:58 addToFerry DEBUG RiverFerry, message: id = 18 (PASSENGER) - added to the ferry

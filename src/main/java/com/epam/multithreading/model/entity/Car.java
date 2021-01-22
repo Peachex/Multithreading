@@ -50,14 +50,14 @@ public class Car extends Thread {
     @Override
     public String toString() {
         StringBuilder sb = new StringBuilder();
-        sb.append("id = ")
-                .append(this.id)
-                .append(", ")
-                .append(this.type)
-                .append(": weight = ")
-                .append(this.type.getWeight())
-                .append(", area = ")
-                .append(this.type.getArea());
+        sb.append("id = ");
+        sb.append(this.id);
+        sb.append(", ");
+        sb.append(this.type);
+        sb.append(": weight = ");
+        sb.append(this.type.getWeight());
+        sb.append(", area = ");
+        sb.append(this.type.getArea());
         return sb.toString();
     }
 }

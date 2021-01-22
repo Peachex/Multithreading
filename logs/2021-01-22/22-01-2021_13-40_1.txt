@@ -1,0 +1,29 @@
+22-01-2021 13:40:00 startFerrying DEBUG RiverFerry, message: Current weight = 15 (<=15)
+22-01-2021 13:40:00 startFerrying DEBUG RiverFerry, message: Current area = 10 (<=12)
+22-01-2021 13:40:00 startFerrying DEBUG RiverFerry, message: id = 12 (PASSENGER) - complete ferrying
+22-01-2021 13:40:00 startFerrying DEBUG RiverFerry, message: id = 13 (PASSENGER) - complete ferrying
+22-01-2021 13:40:00 startFerrying DEBUG RiverFerry, message: id = 14 (PASSENGER) - complete ferrying
+22-01-2021 13:40:00 startFerrying DEBUG RiverFerry, message: id = 15 (PASSENGER) - complete ferrying
+22-01-2021 13:40:00 startFerrying DEBUG RiverFerry, message: id = 18 (PASSENGER) - complete ferrying
+22-01-2021 13:40:02 addToFerry DEBUG RiverFerry, message: id = 5 (TRUCK) - added to the ferry
+22-01-2021 13:40:02 addToFerry DEBUG RiverFerry, message: id = 6 (TRUCK) - added to the ferry
+22-01-2021 13:40:02 addToFerry DEBUG RiverFerry, message: id = 7 (TRUCK) - added to the ferry
+22-01-2021 13:40:04 startFerrying DEBUG RiverFerry, message: Current weight = 15 (<=15)
+22-01-2021 13:40:04 startFerrying DEBUG RiverFerry, message: Current area = 12 (<=12)
+22-01-2021 13:40:04 startFerrying DEBUG RiverFerry, message: id = 5 (TRUCK) - complete ferrying
+22-01-2021 13:40:04 startFerrying DEBUG RiverFerry, message: id = 6 (TRUCK) - complete ferrying
+22-01-2021 13:40:04 startFerrying DEBUG RiverFerry, message: id = 7 (TRUCK) - complete ferrying
+22-01-2021 13:40:06 addToFerry DEBUG RiverFerry, message: id = 4 (TRUCK) - added to the ferry
+22-01-2021 13:40:06 addToFerry DEBUG RiverFerry, message: id = 17 (TRUCK) - added to the ferry
+22-01-2021 13:40:06 addToFerry DEBUG RiverFerry, message: id = 16 (TRUCK) - added to the ferry
+22-01-2021 13:40:08 startFerrying DEBUG RiverFerry, message: Current weight = 15 (<=15)
+22-01-2021 13:40:08 startFerrying DEBUG RiverFerry, message: Current area = 12 (<=12)
+22-01-2021 13:40:08 startFerrying DEBUG RiverFerry, message: id = 4 (TRUCK) - complete ferrying
+22-01-2021 13:40:08 startFerrying DEBUG RiverFerry, message: id = 17 (TRUCK) - complete ferrying
+22-01-2021 13:40:08 startFerrying DEBUG RiverFerry, message: id = 16 (TRUCK) - complete ferrying
+22-01-2021 13:40:10 addToFerry DEBUG RiverFerry, message: id = 19 (TRUCK) - added to the ferry
+22-01-2021 13:40:10 addToFerry DEBUG RiverFerry, message: id = 20 (TRUCK) - added to the ferry
+22-01-2021 13:40:12 startFerrying DEBUG RiverFerry, message: Current weight = 10 (<=15)
+22-01-2021 13:40:12 startFerrying DEBUG RiverFerry, message: Current area = 8 (<=12)
+22-01-2021 13:40:12 startFerrying DEBUG RiverFerry, message: id = 19 (TRUCK) - complete ferrying
+22-01-2021 13:40:12 startFerrying DEBUG RiverFerry, message: id = 20 (TRUCK) - complete ferrying

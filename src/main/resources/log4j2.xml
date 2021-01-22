@@ -6,7 +6,7 @@
         </Console>
         <RollingFile name="File" fileName="logs/log.txt" append="true"
                      filePattern = "logs/${date:yyyy-MM-dd}/%d{dd-MM-yyyy_HH-mm}_%i.txt">
-            <PatternLayout pattern="%d{dd-MM-yyyy HH:mm:ss} %M %-5level %logger{2}, message: %msg%n"/>
+            <PatternLayout pattern="%d{dd-MM-yyyy HH:mm:ss} %M %-5level %logger{1}, message: %msg%n"/>
             <Policies>
                 <TimeBasedTriggeringPolicy/>
                 <SizeBasedTriggeringPolicy size="20KB"/>
